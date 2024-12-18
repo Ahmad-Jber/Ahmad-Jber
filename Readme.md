@@ -110,10 +110,22 @@ A platform to manage insurance operations, enabling users to trace accidents and
 - Implemented advanced features for managing hospital integration and generating price offers.
 - Integrated with a user-friendly **Angular** front end for smooth operations.
 
-#### **AQU Library**
+### **AQU Library**  
+Developed and managed a mobile application for Al-Quds University Library to streamline book borrowing and improve library operations.
 
-A branded Android mobile application that allows book borrowing as an electronic service via a mobile device, streamlining the library process.
+#### **Backend Development:**
+- Designed and implemented **RESTful APIs** using **Django** to manage the entire borrowing process, including book tracking, user management, and transaction handling.
+- Created a **cron job** to calculate fines based on overdue books and notify users to pay their fines.
+- Developed a **cron job** to automatically cancel any approved reservations that students had not picked up from the library within one day.
+- Implemented **JWT authentication** to ensure secure and efficient user access to the system.
 
-- Developed the frontend using **Native Android** and the backend using **Django**.
-- Automated notification systems and integrated features for book tracking and user interaction.
+#### **Notification System:**
+- Integrated **Firebase Cloud Messaging (FCM)** to deliver real-time notifications to users about due dates, fines, and reservation updates.
+
+#### **Admin Customization:**
+- Customized the **Django admin panel** to manage the approval and rejection of book reservations by library staff, improving operational efficiency.
+
+#### **Networking & Front-End Integration:**
+- Used **Retrofit** in the Android front-end to connect to the backend APIs.
+- Developed an **interceptor** to manage networking processes such as token handling, request retries, and error responses.
 
