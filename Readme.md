@@ -13,7 +13,7 @@ Backend Developer with 2+ years of experience designing and building scalable, e
 
 ### **Education**
 
-- **First Year Master’s Degree in Cyber Physical Systems**\
+- **Master of Cyber Physical Systems**\
   *Al-Quds University* — *Starting 09/2024*
 - **Bachelor of Dual Studies Information Technology**\
   *Al-Quds University* — *Graduation Date: 09/2023*
