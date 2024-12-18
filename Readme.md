@@ -64,12 +64,14 @@ Backend Developer with 2+ years of experience designing and building scalable, e
 
 ### **Skills**
 
-**Backend:** Django, ASP.NET Core, Django Rest Framework, WebSockets\
-**Frontend:** Angular, Java Swing, HTML, CSS, JavaScript, TypeScript\
-**Databases:** SQL Server, PostgreSQL, MySQL, SQLite, MariaDB\
-**Other Tools:** Cron Jobs, EF Core, LDAP Authentication, Git, Postman, Swagger\
-**Additional Skills:** Help Desk and Technical Support (Hardware Replacement, Networking, IT Support)\
-**Languages:** Python, C#, Java
+**Backend:** Django, ASP.NET Core, Django Rest Framework, WebSockets, Cron Jobs\
+**Frontend:** Angular, Java Swing, HTML, CSS, Flutter\
+**Databases:** SQL Server, Oracle, MySQL, SQLite, MariaDB, EF Core, ORM\
+**Authentication Techniques:** LDAP (Active Directory), JWT\
+**API Testing:** Postman, Swagger\
+**Version Control:** Git, GitHub, BitBucket\
+**Additional Skills:** Help Desk and Technical Support (Hardware Replacement, Networking, IT Support), Driving Licence\
+**Languages:** Python, C#, Java, JavaScript, TypeScript, Dart
 
 ---
 
