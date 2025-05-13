@@ -1,134 +1,134 @@
-### **Ahmad Jber**
+Ahmad Jber
 
-**Backend Developer**\
-**Email:** [ahmad.jber2001@gmail.com](mailto\:ahmad.jber2001@gmail.com) | **Phone:** +970592564268 | **Location:** East Jerusalem
-
----
-
-### **Professional Summary**
-
-Backend Developer with 2+ years of experience designing and building scalable, efficient backend systems. Skilled in **Django**, **ASP.NET Core**, and **API development**, with a proven track record in crafting innovative software solutions and web applications. Adept at collaborating across teams to deliver projects on time, utilizing modern frameworks, and optimizing system performance.
+**Backend Developer**
+Email: [ahmad.jber2001@gmail.com](mailto:ahmad.jber2001@gmail.com) | Phone: +970592564268 | Location: East Jerusalem
 
 ---
 
-### **Education**
+### Professional Summary
 
-- **Master of Cyber Physical Systems**\
-  *Al-Quds University* — *Starting 09/2024*
-- **Bachelor of Dual Studies Information Technology**\
-  *Al-Quds University* — *Graduation Date: 09/2023*
+Backend Developer with over 2 years of experience in designing and building scalable and efficient backend systems. Proficient in Django, ASP.NET Core, and RESTful API development. Demonstrated success in delivering innovative software solutions, optimizing system performance, and collaborating with cross-functional teams to meet project deadlines.
 
 ---
 
-### **Professional Experience**
+### Education
 
-#### **Software Developer**
+**Master in Cyber Physical Systems**
+Al-Quds University — Starting 09/2024
 
-*Experts Turnkey Solutions* — *Ramallah*\
-*02/2024 – Present*
-
-- Developed and managed **RESTful APIs** using **ASP.NET Core** for seamless integration with front-end systems.
-- Utilized **EF Core** and **SQL Server** for robust database management, ensuring high performance and data integrity.
-- Implemented **LDAP authentication** for secure user access and role management.
-- Created worker services and scheduled jobs to handle automated tasks and improve system efficiency.
-- Sent mass notifications leveraging the **Notification Module** in ASP.NET Zero.
-- **Projects:**
-  - **Accident Tracing Management System (ATM):** A system for tracing accidents and managing insurance operations. Built backend modules to support transaction management, hospital integration, and vendor-specific price offers.
-  - **Audit Case Management System:** A comprehensive system for automating audit case workflows, ensuring efficient case assignment, escalation, and resolution. Developed features including worker services for automation, **LDAP authentication**, and entity creation in **ASP.NET Zero**.
-
-#### **Backend Developer**
-
-*Freelancer*\
-*11/2023 – 02/2024*
-
-- Designed and implemented **RESTful APIs** using **Django Rest Framework**, enabling scalable and efficient system communication.
-- Created **cron jobs** for scheduled server status checks and task automation.
-- Built a **web socket** module for real-time data transfer between front-end and back-end systems.
-- **Project:** **Server Management System**
-  - Developed a system to monitor server performance and status using **Django** as the backend framework.
-  - Created a **cron job** to continuously check server status through ping operations.
-  - Implemented a **web socket** to enable real-time data transfer between the front-end (HTML, CSS, JavaScript) and backend systems.
-  - Collaborated with a network expert to optimize server monitoring and data transfer processes.
-
-#### **Trainee**
-
-*Al-Quds University IT Center* — *Abu Dies*\
-*12/2019 – 01/2024*
-
-- Developed desktop applications using **Java Swing** and Android applications using **Java**.
-- Built **AQU Library**, a branded Android app for book borrowing, streamlining library operations.
-  - Designed the front end in **Native Android** and the backend in **Django**.
-  - Integrated features for book management and automated notification systems.
+**Bachelor of Dual Studies in Information Technology**
+Al-Quds University — Graduated 09/2023
 
 ---
 
-### **Skills**
+### Professional Experience
 
-- **Backend:** Django, ASP.NET Core, Django Rest Framework, WebSockets, Cron Jobs.
-- **Frontend:** Angular, Java Swing, HTML, CSS, Flutter.
-- **Databases:** SQL Server, Oracle, MySQL, SQLite, MariaDB, EF Core, ORM.
-- **Authentication Techniques:** LDAP (Active Directory), JWT, Firebase.
-- **API Testing:** Postman, Swagger.
-- **Third Party:** Ookla Library, Firebase Cloud Messaging (FCM).
-- **Version Control:** Git, GitHub, BitBucket.
-- **Additional Skills:** Help Desk and Technical Support (Hardware Replacement, Networking, IT Support), Driving Licence.
-- **Languages:** Python, C#, Java, JavaScript, TypeScript, Dart.
+**Software Developer**
+Experts Turnkey Solutions — Ramallah
+*Feb 2024 – Present*
+
+* Developed and maintained RESTful APIs using ASP.NET Core for seamless front-end integration.
+* Utilized EF Core with SQL Server to manage databases, ensuring data integrity and high performance.
+* Implemented LDAP authentication for secure access control.
+* Developed worker services and scheduled jobs to automate backend tasks.
+* Integrated ASP.NET Zero’s Notification Module to support mass notification features.
+
+**Key Projects:**
+
+* **Accident Tracing Management System (ATM):** Built backend modules for managing transactions, vendor-specific price offers, and hospital integration.
+* **Audit Case Management System:** Created automated workflows and services for audit case management. Integrated LDAP authentication and developed key modules using ASP.NET Zero.
+* **Wheels:** Developed a delivery system for coordinating business entities and delivery captains. Implemented logic for offer validation, order creation, and background jobs for expiring offers.
+* **Misbar:** Developed a business reporting platform that empowers users to create customized reports based on their specific needs, fully integrated with DevExpress.&#x20;
+
+**Backend Developer (Freelancer)**
+*Nov 2023 – Feb 2024*
+
+* Built scalable RESTful APIs using Django Rest Framework.
+* Created Cron jobs to automate server monitoring and maintenance.
+* Implemented a WebSocket module for real-time data transmission.
+
+**Project: Server Management System**
+
+* Monitored server status and performance with Django-based backend.
+* Utilized cron jobs for ongoing server health checks.
+* Enabled real-time data updates through WebSockets.
+* Collaborated with network specialists to enhance performance.
+
+**Trainee**
+Al-Quds University IT Center — Abu Dis
+*Dec 2019 – Jan 2024*
+
+* Developed Java Swing desktop applications and Android mobile apps.
+* Created "AQU Library," a branded Android application to streamline library book borrowing.
+
+  * Frontend: Native Android
+  * Backend: Django
 
 ---
 
-### **Languages**
+### Skills
 
-- **Arabic:** Native.
-- **English:** Advanced.
+**Backend:** Django, ASP.NET Core, Django Rest Framework, WebSockets, Cron Jobs
+**Frontend:** Angular, Java Swing, HTML, CSS, Flutter
+**Databases:** SQL Server, Oracle, MySQL, SQLite, MariaDB, EF Core, ORM
+**Authentication:** LDAP (Active Directory), JWT, Firebase
+**API Testing:** Postman, Swagger
+**Tools & Libraries:** Git, GitHub, Bitbucket, Ookla Library, Firebase Cloud Messaging (FCM)
+**Additional:** Technical Support, Networking, Hardware Replacement, Driving License
+**Languages:** Python, C#, Java, JavaScript, TypeScript, Dart
 
 ---
 
-### **Key Projects**
+### Languages
 
-#### **Server Management System**
+**Arabic:** Native
+**English:** Advanced
 
-A system to monitor server performance and status, ensuring real-time updates and efficient communication between front-end and back-end systems.
+---
 
-- Developed using **Django** as the backend framework and **HTML, CSS, JavaScript** for the frontend.
-- Implemented a **cron job** to continuously check server status through ping operations.
-- Created a **web socket** to enable real-time data transfer between the front-end and backend systems.
-- Collaborated with a network expert to optimize server monitoring and data transfer processes.
+### Key Projects
 
-####
+**Wheels**
+A delivery system connecting users with business entities (restaurants, markets, pharmacies) using captains for item delivery.
 
-#### **Audit Case Management System**
+* Validated offer eligibility based on customer and business entity criteria.
+* Developed complex order creation logic, including auto-registration for new users.
+* Built background jobs to deactivate expired suggested offers.
+* Contributed across modules: finance, orders, offers, captains, and business entities.
 
-A system designed to streamline and automate the auditing process, ensuring efficient management of cases from creation to resolution.
+**Misbar**
+A business reporting system integrated with DevExpress, allowing users to create customized reports.
 
-- Integrated with **LDAP** for secure user authentication and role-based access control.
-- Automated workflows for case creation, escalation, and notifications.
-- Developed worker services and scheduled jobs for tasks like case status updates and report generation.
-- Built and managed entities using **ASP.NET Zero**.
+* Customized DevExpress DbProvider to enhance report clarity with descriptions.
+* Created a module to connect to any database via ConnectionString for metadata editing.
+* Stored descriptions within Misbar's own database for scalability and separation of concerns.
 
-#### **Accident Tracing Management System (ATM)**
+**Server Management System**
+Real-time server monitoring tool using Django and web technologies.
 
-A platform to manage insurance operations, enabling users to trace accidents and handle related transactions seamlessly.
+* Created a Django backend with scheduled cron jobs for live status checks.
+* Enabled real-time front-end updates through WebSockets.
+* Collaborated with networking professionals for system optimization.
 
-- Developed backend modules for transaction management and vendor-specific operations.
-- Implemented advanced features for managing hospital integration and generating price offers.
-- Integrated with a user-friendly **Angular** front end for smooth operations.
+**Audit Case Management System**
+Streamlined and automated auditing processes using ASP.NET Zero.
 
-#### **AQU Library (Graduation Project)**  
-Developed and managed a mobile application for Al-Quds University Library to streamline book borrowing and improve library operations.
+* Integrated secure LDAP authentication and role-based access control.
+* Automated case workflows with services and scheduled job routines.
+* Developed custom modules for audit entities.
 
-##### **Backend Development:**
-- Designed and implemented **RESTful APIs** using **Django** to manage the entire borrowing process, including book tracking, user management, and transaction handling.
-- Created a **cron job** to calculate fines based on overdue books and notify users to pay their fines.
-- Developed a **cron job** to automatically cancel any approved reservations that students had not picked up from the library within one day.
-- Implemented **JWT authentication** to ensure secure and efficient user access to the system.
+**Accident Tracing Management System (ATM)**
+A backend platform for managing insurance-related accident operations.
 
-##### **Notification System:**
-- Integrated **Firebase Cloud Messaging (FCM)** to deliver real-time notifications to users about due dates, fines, and reservation updates.
+* Built modules for vendor-specific price offers and transaction workflows.
+* Enabled hospital integration and seamless front-end communication with Angular.
 
-##### **Admin Customization:**
-- Customized the **Django admin panel** to manage the approval and rejection of book reservations by library staff, improving operational efficiency.
+**AQU Library (Graduation Project)**
+A mobile app to digitize book borrowing for Al-Quds University Library.
 
-##### **Networking & Front-End Integration:**
-- Used **Retrofit** in the Android front-end to connect to the backend APIs.
-- Developed an **interceptor** to manage networking processes such as token handling, request retries, and error responses.
-
+* **Backend:** Django REST APIs for managing books, users, fines, and transactions.
+* **Automation:** Cron jobs for overdue fines and reservation cancellation.
+* **Security:** JWT-based authentication.
+* **Notifications:** Integrated Firebase Cloud Messaging.
+* **Admin Tools:** Customized Django admin for reservation management.
+* **Frontend Integration:** Used Retrofit and interceptors on Android for secure API communication.
