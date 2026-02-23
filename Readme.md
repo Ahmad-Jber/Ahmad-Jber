@@ -26,7 +26,7 @@ Results-driven **Backend Developer** with nearly **2 years of experience** speci
 
 ## 🚀 KEY PROJECTS
 
-### 🚕 Mwasalaty — Transportation Management System V2.0
+### 🚕 Mwasalaty — Transportation Management System
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
