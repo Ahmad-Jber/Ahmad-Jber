@@ -26,9 +26,9 @@ Results-driven **Backend Developer** with nearly **2 years of experience** speci
 
 ## 🚀 KEY PROJECTS
 
-### 🚕 Mwasalaty — Transportation Management System
+### 🚕 Mwasalaty — Transportation Management System V2.0
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 - **End-to-End Backend** — Engineered a comprehensive backend solution from the ground up, architecting business logic and API layers against a pre-existing database schema
 - **Operational Modules** — Developed core modules for managing drivers, vehicles, and taxi permits
@@ -36,7 +36,7 @@ Results-driven **Backend Developer** with nearly **2 years of experience** speci
 
 ### 📦 Asset Flow — Asset Management System
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![HangFire](https://img.shields.io/badge/HangFire-21262D?style=flat-square)![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)![HangFire](https://img.shields.io/badge/HangFire-21262D?style=flat-square)![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=flat-square)![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 - **Dynamic Forms & Workflows** — Designed a management system featuring configurable forms and workflow steps to streamline organizational asset tracking
 - **Workflow Logic** — Developed and maintained workflow step connection logic ensuring reliable transitions between process states
