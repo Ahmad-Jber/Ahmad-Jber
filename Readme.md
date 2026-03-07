@@ -102,18 +102,4 @@ Results-driven **Backend Developer** with nearly **2 years of experience** speci
 
 ---
 
-## 👥 REFERENCES
-
-![](https://img.shields.io/badge/Baha%20Abu%20Kbash-161B22?style=for-the-badge&logoColor=58A6FF)
-
-**Team Leader**Experts TurnKey Solutions
-
-
-![](https://img.shields.io/badge/Hamza%20Jaradat-161B22?style=for-the-badge&logoColor=58A6FF)
-
-**Senior .NET Developer**Experts TurnKey Solutions
-
-
----
-
 ![](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=60&section=footer)
